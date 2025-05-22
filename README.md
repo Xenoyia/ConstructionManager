@@ -1,3 +1,8 @@
+About
+-----
+
+Allows you to customise the recipe for each constructable building. Want free decorations? you can do that! Want to make every building free or cost less? sure!
+
 Installation
 ------------
 
